@@ -3,7 +3,7 @@ This is a Machine Learning project that predicts whether a customer will stop us
 ## Problem Statement:
 Here the prediction is about Whether the customer will continue using the product or service or stops using it. This project aims to predict the churn based on various factors such as Credit Score, Geographical Location, Gender, Age, Tenure of the product usage, Balance pending,Number of products, Has Credit card or Not, Active Member or not and Estimated Salary given.
 ## Solution Approach:
-The project uses various machine learning model to predict the churn of the customer. The model is trained using the dataset provided by the bank and it uses the features in the dataset to predict the Churn with highest accurate rate.
+The project uses a machine learning model which gives the highest accuracy rate to predict the churn of the customer. The model is trained using the dataset provided by the bank and it uses the features in the dataset to predict the Churn with highest accurate rate.
 ## Observations:
 The project found that the following factors are most important in predicting the Stoppage of usage(Churn)
 * Credit Score
