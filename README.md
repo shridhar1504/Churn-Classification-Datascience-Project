@@ -1,5 +1,5 @@
 # Churn-Classification-Datascience-Project
-This is a Machine Learning project that predicts whether a customer will churn(stop using the product or service) based on their historical data provided by the Bank.
+This is a Machine Learning project that predicts whether a customer will stop using the product or service(churn) based on their historical data provided by the Bank.
 ## Problem Statement:
 Here the prediction is about Whether the customer will continue using the product or service or stops using it. This project aims to predict the churn based on various factors such as Credit Score, Geographical Location, Gender, Age, Tenure of the product usage, Balance pending,Number of products, Has Credit card or Not, Active Member or not and Estimated Salary given.
 ## Solution Approach:
