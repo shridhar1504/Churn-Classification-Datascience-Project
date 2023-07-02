@@ -20,3 +20,5 @@ The project found that the following factors are most important in predicting th
 The project provides insights into the factors that influence the exiting of the customer(churn). This information can be used by bank to predict whether the customer continue with their services and products or not. This can be used to the advantage of the bank and help their business hit high.
 ## Findings:
 The project found that the machine learning model was able to predict the churn of the customer with high degree of accuracy. The model was able to predict the churn of the customer with more than 95% accuracy rate. The project also found that the model was able to generalize well to new data. The model was able to predict the churn of the customer with the appropriate input data.
+## Conclusion :
+Achieved in developing a predictive model to predict that whether the customer will stop using the product or continue using it with accuracy of 95.92% (Extra Trees Classifier)
